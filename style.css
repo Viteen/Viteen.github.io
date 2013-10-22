@@ -18,10 +18,11 @@ h1 {
 	font-family: arial, sans-serif;
 	font-size: 5em;
 	color: white;
+	letter-spacing: .01em;
 	text-align: center;
 	position: absolute;
-	bottom: -12px;
-	margin-left: 13%;
+	bottom: -14px;
+	margin-left: 12%;
 }
 .buttons {
 	height: 100px;
@@ -56,7 +57,7 @@ li {
 @media screen and (min-width: 500px) {
 
 	.toplevel {
-		border-bottom: 32px solid black;
+		border-bottom: none;
 		max-width: 100%;
 		height: 100%;
 	}
@@ -64,13 +65,17 @@ li {
 		height: 100%;
 	}
 	h1 {
-		font-size: 7em;
-		letter-spacing: .05em;
+		font-size: 6.5em;
+		letter-spacing: .03em;
 		bottom: -18px;
+		color: #707070;
+		float: right;
+		bottom: 550px;
+		right: 60px;
 	}
 	.buttons {
 		position: absolute;
-		right: 120px;
-		top: 180px;
+		right: 200px;
+		top: 250px;
 	}
 }

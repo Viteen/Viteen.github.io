@@ -3,10 +3,14 @@
 }*/
 
 .toplevel {
-	background: url(images/kv_portrait.jpg) no-repeat;
+	/*background: url(images/kv_portrait.jpg) no-repeat;*/
 	height: 420px;
 	max-width: 480px;
 	border-bottom: 12px solid black;
+	position: relative;
+}
+
+.blackbar {
 	position: relative;
 }
 
@@ -47,4 +51,32 @@ a {
 
 li {
 	margin: 24 0 24 0;
+}
+
+@media screen and (min-width: 600px) {
+
+	.toplevel {
+		border-bottom: 32px solid black;
+		max-width: 100%;
+		height: 100%;
+	}
+
+	.toplevel img {
+		height: 100%;
+	
+	}
+
+	h1 {
+		font-size: 7em;
+		letter-spacing: .05em;
+		bottom: -18px;
+
+	}
+
+	.buttons {
+		position: absolute;
+		right: 120px;
+		top: 180px;
+
+	}
 }

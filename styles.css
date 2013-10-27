@@ -4,7 +4,6 @@
 }
 
 .jumbotron {
-/*	margin: 0 auto;*/
 	background-color: #707070;
 	color: white;
 }
@@ -13,7 +12,7 @@
 }
 
 .jumbotron h1 {
-	font-size: 5.5em;
+	font-size: 5em;
 	font-family: 'Belleza', sans-serif;
 	color: white;
 	text-transform: uppercase;
@@ -21,17 +20,14 @@
 }
 
 .season {
-	font-size: 1.2em;
+	font-size: 1em;
 	font-weight: bold;
 	color: #505050;
 }
 .col-md-3 {
-	font-size: 1.4em;
+	font-size: 1em;
 }
-.col-md-3 img {
-/*	size: 80%;
-	*/
-}
+
 .bio {
-	font-size: 1.4em;
+	font-size: 1em;
 }

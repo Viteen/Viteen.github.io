@@ -4,18 +4,20 @@
 }
 
 .jumbotron {
-	background-color: #707070;
-	color: white;
+	background-image: url(images/Electric_guitar.jpg);
+	text-align: center;
 }
+
 .first {
 	margin: 1.8em 0 0 0;
 }
 
 .jumbotron h1 {
-	font-size: 5em;
+	font-size: 5.5em;
 	font-family: 'Belleza', sans-serif;
 	color: white;
 	text-transform: uppercase;
+	text-shadow: 8px 8px 8px black;
 	letter-spacing: .3em;
 }
 

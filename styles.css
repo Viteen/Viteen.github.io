@@ -31,3 +31,12 @@
 .bio {
 	font-size: 1em;
 }
+
+.spacer {
+	margin-top: .5em;
+}
+
+.gray {
+	text-transform: uppercase;
+	background-color: #505050;
+}

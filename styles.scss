@@ -1,0 +1,44 @@
+
+.navbar-new {
+	font-size: 1.2em;
+}
+
+.jumbotron {
+	background-image: url(images/sewingdetail.jpg);
+	text-align: center;
+}
+
+.first {
+	margin: 1.6em 0 0 0;
+}
+
+.jumbotron h1 {
+	font-size: 5.5em;
+	font-family: 'Belleza', sans-serif;
+	color: white;
+	text-transform: uppercase;
+	text-shadow: 8px 8px 8px black;
+	letter-spacing: .3em;
+}
+
+.col-md-3 {
+	font-size: 1em;
+	.season {
+		font-size: 1.2em;
+		font-weight: bold;
+		color: #505050;
+	}
+}
+
+.bio {
+	font-size: 1em;
+}
+
+.spacer {
+	margin-top: .5em;
+}
+
+.gray {
+	text-transform: uppercase;
+	background-color: #505050;
+}

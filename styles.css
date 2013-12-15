@@ -29,12 +29,12 @@
   font-size: 3.8em;
   font-family: 'Varela Round', sans-serif;
   color: white;
-  text-shadow: 8px 8px 8px black;
+  text-shadow: 6px 6px 16px black;
   letter-spacing: .3em;
 }
 
 p {
-  font-size: 1.5em;
+  font-size: 1.3em;
   font-family: 'Varela Round', sans-serif;
 }
 
@@ -42,21 +42,21 @@ p {
   font-size: 1em;
 }
 .col-md-4 .season {
-  font-size: 2em;
+  font-size: 1.8em;
   font-family: 'Varela Round', sans-serif;
-/*  color: #505050;*/
+  color: #505050;
   margin: .5em 0 0 0;
 }
 .col-md-12 .season {
-  font-size: 2em;
+  font-size: 1.8em;
   font-family: 'Varela Round', sans-serif;
-  /*color: #505050;*/
+  color: #505050;
   margin: .5em 0 0 0;
 }
 .col-md-6 .season {
-  font-size: 2em;
+  font-size: 1.8em;
   font-family: 'Varela Round', sans-serif;
- /* color: #505050;*/
+  color: #505050;
   margin: .5em 0 0 0;
 }
 
@@ -79,7 +79,7 @@ h2 {
   text-transform: uppercase;
   letter-spacing: .1em;
   background-color: #3399ff;
-  padding: 12px 0px 10px 20px;
+  padding: 12px 0px 8px 20px;
   margin-bottom: .9em;
   border-radius: 30px;
 }

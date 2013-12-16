@@ -79,7 +79,7 @@ h2 {
   letter-spacing: .1em;
   background-color: #3399ff;
   padding: 12px 0px 8px 20px;
-  margin-bottom: .9em;
+  margin-bottom: .8em;
   border-radius: 30px;
 }
 
@@ -114,6 +114,12 @@ h2 {
 }
 p {
   font-size: 1em;
+}
+.bio {
+  font-size: 1em;
+}
+.h2 {
+  margin-bottom: .2em;
 }
 
 }
